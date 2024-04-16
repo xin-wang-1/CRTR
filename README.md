@@ -1,5 +1,6 @@
 # CRTR
 ## ENVIRONMENT
+conda create -n CRTR python=3.8.12  
 conda install pytorch==1.8.1 torchvision==0.9.1 torchaudio==0.8.1 -c pytorch  
 pip install tqdm==4.50.2  
 pip install tensorboard==2.8.0  
