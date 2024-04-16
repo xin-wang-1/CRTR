@@ -8,3 +8,5 @@ conda install -c conda-forge nvidia-apex
 pip install scipy==1.5.2  
 pip install ml-collections==0.1.0  
 pip install scikit-learn==0.23.2  
+## TRAINING
+python main.py --dataset *** --name *** --source_list data/***.txt --target_list data/***.txt --test_list data/***.txt --num_steps 5000
