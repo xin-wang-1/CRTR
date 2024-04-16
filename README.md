@@ -10,3 +10,4 @@ pip install ml-collections==0.1.0
 pip install scikit-learn==0.23.2  
 ## TRAINING
 python main.py --dataset *** --name *** --source_list data/source.txt --target_list data/target.txt --test_list data/test.txt --num_steps 5000  
+## TEST
