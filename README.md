@@ -9,7 +9,7 @@ pip install scipy==1.5.2
 pip install ml-collections==0.1.0  
 pip install scikit-learn==0.23.2  
 
-### datasets: 
+### DATASETS: 
 data/dataset_name/domain/class/fig
 **.txt corresponds to the domain
 
