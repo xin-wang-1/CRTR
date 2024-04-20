@@ -1,5 +1,5 @@
-# CRTR(The remaining code will be uploaded soon)
-## ENVIRONMENT
+# CRTR
+## ENVIRONMENT（4.20）
 conda create -n CRTR python=3.8.12  
 conda install pytorch==1.8.1 torchvision==0.9.1 torchaudio==0.8.1 -c pytorch  
 pip install tqdm==4.50.2  
