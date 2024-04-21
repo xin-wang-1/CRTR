@@ -18,6 +18,6 @@ pip install scikit-learn==0.23.2
 data/dataset_name/domain/class/fig
 **.txt corresponds to the domain
 
-## TRAINING（04/21/2024）
+### TRAINING（04/21/2024）
 python main.py --dataset *** --name *** --source_list data/source.txt --target_list data/target.txt --test_list data/test.txt --num_steps 5000 --img_size 256 --use_CFAM --use_RSCM 
 
