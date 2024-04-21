@@ -15,7 +15,7 @@ pip install ml-collections==0.1.0
 pip install scikit-learn==0.23.2  
 
 ### DATASETS（04/18/2024）
-data/dataset_name/domain/class/fig
+data/dataset_name/domain/class/fig 
 **.txt corresponds to the domain
 
 ### TRAINING（04/21/2024）
