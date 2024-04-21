@@ -1,5 +1,5 @@
 # CRTR（Cross-Resolution Target Recognition）
-CRTR is the work for cross-resolution target detection in SAR Imagery.
+CRTR is the work for cross-resolution target recognition in SAR Imagery.
 
 ### UPDATES 
 (04/2024) Code is released. 
