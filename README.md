@@ -1,4 +1,9 @@
 # CRTR（Cross-Resolution Target Recognition）
+CRTR is the work for cross-resolution target detection in SAR Imagery.
+
+### UPDATES 
+(04/2024) Code is released. 
+
 ### ENVIRONMENT（04/16/2024）
 conda create -n CRTR python=3.8.12  
 conda install pytorch==1.8.1 torchvision==0.9.1 torchaudio==0.8.1 -c pytorch  
@@ -13,6 +18,6 @@ pip install scikit-learn==0.23.2
 data/dataset_name/domain/class/fig
 **.txt corresponds to the domain
 
-## TRAINING（04/18/2024）
+## TRAINING（04/21/2024）
 python main.py --dataset *** --name *** --source_list data/source.txt --target_list data/target.txt --test_list data/test.txt --num_steps 5000 --img_size 256 --use_CFAM --use_RSCM 
 
